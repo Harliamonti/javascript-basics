@@ -12,3 +12,8 @@ console.log(a)
 console.log(9 * a)
 let b = 7 * a
 console.log(b)
+
+// Variables extended
+let max = 57
+let actual = max - 13
+let percentage = actual / max
